@@ -1,1 +1,0 @@
-# Politic shared static assets
