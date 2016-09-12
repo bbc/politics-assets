@@ -1,1 +1,16 @@
-# SCSS
+.politics-wrapper { 
+	font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
+    width: 100%;
+    background: #ededed;
+    padding: 0.25em 1em 0.25em;
+    font-color: #999999;
+
+    .us2016-banner__link {
+    	color: #505050;
+    	text-decoration: none;
+    }
+    .us2016-banner__link:hover {
+    	text-decoration: underline;
+    }
+
+}

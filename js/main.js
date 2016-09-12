@@ -1,1 +1,1 @@
-# JS
+console.log('politics:main.js');
